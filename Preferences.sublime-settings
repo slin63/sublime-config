@@ -1,0 +1,37 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": false,
+	"auto_complete_delay": 20,
+	"caret_style": "blink",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).sublime-color-scheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"AutoFileName",
+		"Python Checker",
+		"Python Debugger",
+		"Python Flake8 Lint",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"rulers":
+	[
+		120
+	],
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"theme": "Sodarized Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

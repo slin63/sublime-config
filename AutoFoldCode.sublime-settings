@@ -1,0 +1,34 @@
+{
+	"/Users/sheanlin/Documents/Work/ALPINE/alpine/alpine/tests/views/web/ajaxlib/test_ajax_field_assignment_boundaries.py":
+	[
+		[
+			917,
+			6433
+		]
+	],
+	"folds":
+	{
+		"/Users/sheanlin/Documents/Work/ALPINE/alpine/alpine/views/resource_api/v1/updated_resources.py":
+		{
+			"0x2030a54e":
+			[
+				[
+					17404,
+					20837
+				]
+			]
+		},
+		"/Users/sheanlin/Documents/Work/ALPINE/gb-common/gb_common/constants.py":
+		{
+			"0x791f44de":
+			[
+				[
+					30770,
+					31141
+				]
+			]
+		}
+	},
+	"max_buffer_size": 1000000,
+	"version": 1
+}

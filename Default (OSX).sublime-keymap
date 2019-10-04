@@ -1,0 +1,11 @@
+[
+    { "keys": ["alt+k"], "command": "move_to_neighboring_group", "args": {"forward": false} },
+
+    { "keys": ["super+shift+a"], "command": "toggle_breakpoint" },
+
+    { "keys": ["super+shift+g"], "command": "goto_breakpoint" },
+
+    { "keys": ["alt+ctrl+a"], "command": "alignment" },
+	{ "keys": ["alt+shift+super+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["alt+shift+super+down"], "command": "select_lines", "args": {"forward": true} },
+]

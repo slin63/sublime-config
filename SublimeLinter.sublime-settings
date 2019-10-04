@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+	"styles": [
+		{
+			"icon": "warning",
+		}
+	],
+    "lint_mode": "load_save"
+}
